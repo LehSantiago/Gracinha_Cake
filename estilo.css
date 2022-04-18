@@ -139,7 +139,7 @@ body{
     .foto_bolo{
         position:relative;
         width:50%;
-        background-image:url(../imagens/bolo22.jpg);
+        background-image:url(imagens/bolo22.jpg);
         background-repeat: no-repeat;
         margin-top: 15px;
         height:350px;
