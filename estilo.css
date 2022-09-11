@@ -32,9 +32,9 @@ body{
             top:0;
             left:0;
             z-index:3;
-            width:110%;
+            width:300%;
             height:60px;
-            background-image: url(imagens/Desktop - 1-1.svg);
+            background-image: url(../Gracinha_Cake/imagens/Desktop - 1-1.svg);
             display:flex;
             flex-direction: row;
             align-items:center;
