@@ -34,7 +34,7 @@ body{
             z-index:3;
             width:110%;
             height:60px;
-            background-image: url(/imagens/Desktop\ -\ 1-1.svg);
+            background-image: url(imagens/Desktop\ -\ 1-1.svg);
             display:flex;
             flex-direction: row;
             align-items:center;
